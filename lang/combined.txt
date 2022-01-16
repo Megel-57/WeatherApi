@@ -60,18 +60,18 @@ type_29	Sky Unchanged	Unverändert	Cielo sin cambios	Ciel inchangé	Небо б�
 type_30	Smoke Or Haze	Rauch oder Hitzeflimmern	Humo o neblina	Fumée ou brume	Дым
 type_31	Snow	Schnee	Nieve	Neige	Снег
 type_32	Snow And Rain Showers	Schnee und Regen Schauer 	Lluvias y nieve	Averses de neige et de pluie	Обильные Снег и Дождь
-type_33	Snow Showers	Schnee Schauer	Duchas de nieve	Douches de neige	Обильный снег
+type_33	Snow Showers	Schnee Schauer	Duchas de nieve	Chute de neige	Обильный снег
 type_34	Heavy Snow	Starker Schneefall	Fuertes nevadas	Beaucoup de neige	Снегопад
 type_35	Light Snow	Leichter Schneefall	Nieve ligera	Neige légère	Небольшой снег
 type_36	Squalls	Sturmbö	Chubascos	Grains	Шквал
 type_37	Thunderstorm	Gewitter	Tormenta	Orage	Гроза
 type_38	Thunderstorm Without Precipitation	Gewitter ohne Niederschlag	Tormenta sin precipitaciones	Orage sans précipitations	Гроза без осадков
 type_39	Diamond Dust	Polarschnee	Polvo de diamante	La poussière de diamant	Ясное небо с мелкими осадками
-type_40	Hail	Hagel	Granizo	Saluer	Град
-type_41	Overcast	Bedeckt	Nublado	Couvert	Пасмурная погода
+type_40	Hail	Hagel	Granizo	grêle	Град
+type_41	Overcast	Bedeckt	Nublado	Ciel couvert	Пасмурная погода
 type_42	Partially cloudy	Teilweise bewölkt	Parcialmente nublado	Partiellement nuageux	Частично облачно
 type_43	Clear	klar	Claro	Clair	Ясно
-warmingup	warming up	Aufwärmen	calentando	échauffement	
+warmingup	warming up	Aufwärmen	calentando	réchauffement	
 coolingdown	cooling down	Abkühlung	enfriándose	retour au calme	
 similartemp	similar temperatures continuing	ähnliche Temperaturen setzen sich fort	temperaturas similares continúan	températures similaires se poursuivant	
 raindays	a chance of rain 	eine Chance von Regen auf 	una posibilidad de lluvia en 	une chance de pluie 	
